@@ -1,0 +1,3 @@
+Simple standalone vsnprintf for cOSiris or embeded devices.
+It does not yet support floating point numbers.
+
